@@ -30,7 +30,7 @@ export default function HeroSection() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <a href="#" className="text-xl font-bold text-primary">
-              Dev
+              Dev.
             </a>
 
             {/* Desktop Navigation */}
@@ -116,7 +116,7 @@ export default function HeroSection() {
         </h2>
 
         <p className="text-lg text-muted-foreground max-w-xl mb-8">
-          I'm a full stack web developer with 1 year of experience specializing
+          I'm a full stack web developer with 01 year of experience specializing
           in building exceptional digital experiences.
         </p>
 
