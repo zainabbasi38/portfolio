@@ -88,7 +88,7 @@ export default function HeroSection() {
       {/* Profile Image */}
       <div className="flex justify-center md:justify-start">
         <Image
-          src="/pic.png"
+          src="/portfolio/pic.png"
           alt="Profile Picture"
           width={260}
           height={260}
