@@ -16,7 +16,7 @@ export default function ContactSection() {
             or just want to say hi, I'll try my best to get back to you!
           </p>
           <Button size="lg" asChild>
-            <a href="mailto:hello@example.com">
+            <a href="mailto:zainabbasi7534@gmail.com">
               <Mail className="mr-2 w-4 h-4" />
               Say Hello
             </a>
